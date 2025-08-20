@@ -1,3 +1,7 @@
+
+                            #task1
+
+
 # Create a dictionary of student marks
 student_marks = {
     "Alice": 85,
@@ -19,6 +23,8 @@ else:
 
 
 
+                            #task2
+
     # Create a list of numbers from 1 to 10
 numbers = list(range(1, 11))
 
@@ -32,3 +38,4 @@ reversed_five = first_five[::-1]
 print(f"Original list: {numbers}")
 print(f"Extracted first five elements: {first_five}")
 print(f"Reversed extracted elements: {reversed_five}")
+
